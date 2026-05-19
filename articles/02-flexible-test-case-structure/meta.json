@@ -1,0 +1,26 @@
+{
+  "title": "How to Build a Flexible Test Case Structure Without Losing Your Mind",
+  "slug": "flexible-test-case-structure",
+  "meta_title": "Test Case Management: Build a Flexible Structure That Scales",
+  "meta_description": "Copy-paste test cases and inconsistent formats make test suites unmaintainable. Here's how to use templates, custom fields, and shared steps to fix it once.",
+  "primary_keyword": "test case management",
+  "secondary_keywords": ["test case templates","custom fields qa","shared test steps","test case structure","reusable test steps"],
+  "category": "QA Leadership",
+  "word_count": 2700,
+  "internal_links": [
+    {"anchor": "the QA leader's guide to test organization","url": "/blog/test-case-organization"},
+    {"anchor": "how to run a full QA project in TestFiesta","url": "/blog/qa-project-management"}
+  ],
+  "social": {
+    "linkedin_cmo": "Most QA teams spend more time maintaining their test suite than running it.\n\nCopy-pasted steps that break when a shared flow changes. Inconsistent formats. Custom fields added one at a time with no system behind them.\n\nThe problem is not the team. It is the structure.\n\nTemplates, custom fields, shared steps, tags, and configurations are the five primitives that keep a test suite maintainable as it grows. Set them up before writing the first test case and the maintenance problem largely solves itself.\n\nFull guide: testfiesta.com/blog/flexible-test-case-structure\n\n#QA #TestManagement #SoftwareTesting",
+    "linkedin_brand": "A test suite that nobody can maintain is a test suite that does not get used.\n\nTestFiesta's structure features — templates, custom fields, shared steps, tags, and configurations — are designed to solve the maintenance problem once.\n\nShared steps alone: when the login flow changes, update one shared step instead of 300 test cases.\n\nFull setup guide: testfiesta.com/blog/flexible-test-case-structure\n\nStart Free Account: app.testfiesta.com/signup",
+    "twitter_thread": [
+      "Most QA teams spend more time maintaining their test suite than running it. Here's how to fix the structure so maintenance largely takes care of itself. 🧵",
+      "Problem: copy-paste steps. When the login flow changes, you update 300 test cases. Solution: shared steps. When the login flow changes, you update one shared step. Every test case that uses it updates automatically.",
+      "Problem: inconsistent formats. Some test cases have preconditions, some don't. Some have risk levels, some don't. Solution: templates. Define required fields once. Every test case in the project follows the structure.",
+      "Problem: single-dimension organization. Folders organize by feature area. But you also need to filter by risk level, sprint, environment, test type. Solution: tags. A test case can have 5 tags. Filter by any combination.",
+      "Problem: test matrix tracking. Same test cases need to run on Chrome, Firefox, Safari, iOS, Android. Solution: configurations. Define your environments once. Track results per configuration in the same run.",
+      "Set up templates + shared steps + tags + configurations before writing the first test case. The structural maintenance problem largely disappears. Full guide: testfiesta.com/blog/flexible-test-case-structure"
+    ]
+  }
+}
