@@ -1,1 +1,41 @@
-{"title":"How to Run a Full QA Project in TestFiesta (From Milestone to Defect)","slug":"qa-project-management","meta_title":"Test Plan Management: Run a Full QA Project in TestFiesta","meta_description":"Most QA teams manage projects across three tools. TestFiesta consolidates test cases, runs, defects, and reporting in one place. Here's the complete project lifecycle.","primary_keyword":"test plan management","secondary_keywords":["bug tracking qa","defect tracking tool","test run management","qa project management","test milestone tracking"],"category":"QA Leadership","word_count":2900,"internal_links":[{"anchor":"how to build QA dashboards your whole team will actually use","url":"/blog/qa-dashboards"},{"anchor":"AI test case generation that actually understands your context","url":"/blog/ai-test-case-generation"}],"social":{"linkedin_cmo":"Most QA teams run their projects across three tools.\n\nTest management tool for test cases and runs. Bug tracker for defects. Spreadsheet for milestones and status reports.\n\nThe friction between these tools is constant. Every context switch, every manual data reconciliation, every status report assembled from multiple sources is time that could be spent testing.\n\nTestFiesta consolidates the full QA project lifecycle — test cases, runs, defects, milestones, and reporting — in one place.\n\nFull lifecycle walkthrough: testfiesta.com/blog/qa-project-management\n\n#QA #TestManagement","linkedin_brand":"The complete QA project lifecycle in TestFiesta — from first milestone to final sign-off:\n\n1. Create project (template, Jira integration, configurations)\n2. Create milestone (release target, scope)\n3. Write test cases (template + AI generation)\n4. Create test plan (organize runs by phase)\n5. Execute tests (personal Workspace tab per tester)\n6. Log defects (directly from failed steps, syncs to Jira)\n7. Track progress (live dashboard, shareable link)\n8. Release sign-off (milestone readiness report)\n\nNo spreadsheets. No manual status reports. No three-tool context switching.\n\nFull guide: testfiesta.com/blog/qa-project-management\n\nStart Free Account: app.testfiesta.com/signup","twitter_thread":["Most QA teams run projects across 3 tools: test management + bug tracker + spreadsheet. Here's what the full lifecycle looks like in one tool. 🧵","Milestones: set the release target date, define scope, track blocking defects and release readiness threshold. One view answers 'are we ready to release?' without manual data aggregation.","Test plans: organize runs by phase (smoke → feature regression → full regression → exploratory → sign-off). Makes the testing strategy explicit and trackable for stakeholders.","The personal Workspace tab: each tester's assigned test cases across all active runs, in priority order. A to-do list that's always current. No navigating between runs to find your work.","Defects: log directly from a failed test step. Pre-populated with test case name, failed step, expected result. Syncs to Jira automatically. Re-execution tracked separately from original failure. Full guide: testfiesta.com/blog/qa-project-management"]}}
+{
+  "title": "How to Run a Full QA Project in TestFiesta (From Milestone to Defect)",
+  "slug": "qa-project-management",
+  "meta_title": "Test Plan Management: Run a Full QA Project in TestFiesta",
+  "meta_description": "Most QA teams manage projects across three tools. TestFiesta consolidates test cases, runs, defects, and reporting in one place. Here's the complete project lifecycle.",
+  "primary_keyword": "test plan management",
+  "secondary_keywords": [
+    "bug tracking qa",
+    "defect tracking tool",
+    "test run management",
+    "qa project management",
+    "test milestone tracking"
+  ],
+  "category": "QA Leadership",
+  "word_count": 2900,
+  "internal_links": [
+    {
+      "anchor": "how to build QA dashboards your whole team will actually use",
+      "url": "/blog/qa-dashboards"
+    },
+    {
+      "anchor": "AI test case generation that actually understands your context",
+      "url": "/blog/ai-test-case-generation"
+    }
+  ],
+  "social": {
+    "linkedin_cmo": "Most QA teams run their projects across three tools.\n\nTest management tool for test cases and runs. Bug tracker for defects. Spreadsheet for milestones and status reports.\n\nThe friction between these tools is constant. Every context switch, every manual data reconciliation, every status report assembled from multiple sources is time that could be spent testing.\n\nTestFiesta consolidates the full QA project lifecycle — test cases, runs, defects, milestones, and reporting — in one place.\n\nFull lifecycle walkthrough: testfiesta.com/blog/qa-project-management\n\n#QA #TestManagement",
+    "linkedin_brand": "The complete QA project lifecycle in TestFiesta — from first milestone to final sign-off:\n\n1. Create project (template, Jira integration, configurations)\n2. Create milestone (release target, scope)\n3. Write test cases (template + AI generation)\n4. Create test plan (organize runs by phase)\n5. Execute tests (personal Workspace tab per tester)\n6. Log defects (directly from failed steps, syncs to Jira)\n7. Track progress (live dashboard, shareable link)\n8. Release sign-off (milestone readiness report)\n\nNo spreadsheets. No manual status reports. No three-tool context switching.\n\nFull guide: testfiesta.com/blog/qa-project-management\n\nStart Free Account: app.testfiesta.com/signup",
+    "twitter_thread": [
+      "Most QA teams run projects across 3 tools: test management + bug tracker + spreadsheet. Here's what the full lifecycle looks like in one tool. 🧵",
+      "Milestones: set the release target date, define scope, track blocking defects and release readiness threshold. One view answers 'are we ready to release?' without manual data aggregation.",
+      "Test plans: organize runs by phase (smoke → feature regression → full regression → exploratory → sign-off). Makes the testing strategy explicit and trackable for stakeholders.",
+      "The personal Workspace tab: each tester's assigned test cases across all active runs, in priority order. A to-do list that's always current. No navigating between runs to find your work.",
+      "Defects: log directly from a failed test step. Pre-populated with test case name, failed step, expected result. Syncs to Jira automatically. Re-execution tracked separately from original failure. Full guide: testfiesta.com/blog/qa-project-management"
+    ]
+  },
+  "author": "TestFiesta Team",
+  "published_date": "2026-05-19",
+  "featured_image_alt": "Running a full QA project in TestFiesta — milestones, runs, defects, dashboards",
+  "featured": false
+}
