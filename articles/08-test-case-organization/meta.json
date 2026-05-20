@@ -1,1 +1,37 @@
-{"title":"The QA Leader's Guide to Test Organization (Tags, Configs, and Shared Steps)","slug":"test-case-organization","meta_title":"Test Case Organization: Tags, Configs, and Shared Steps in TestFiesta","meta_description":"A test suite nobody can navigate is a test suite nobody uses. Here's how to use tags, configurations, and shared steps to build an organization system that scales.","primary_keyword":"test case organization","secondary_keywords":["qa workflow organization","test suite organization","test tags","test configurations","shared test steps"],"category":"QA Leadership","word_count":2600,"internal_links":[{"anchor":"how to run a full QA project in TestFiesta","url":"/blog/qa-project-management"}],"social":{"linkedin_cmo":"A test suite that nobody can navigate is a test suite that does not get used.\n\nQA teams that cannot find the test cases they need default to writing new ones — creating duplicates, missing coverage gaps, and building a test suite that grows in size while shrinking in usefulness.\n\nTags, configurations, and shared steps are the three organizational primitives that keep a test suite navigable as it grows. Used together, they turn a sprawling test suite into something any team member can navigate in minutes.\n\nFull guide: testfiesta.com/blog/test-case-organization\n\n#QA #TestManagement","linkedin_brand":"Three organizational primitives that keep a test suite maintainable as it grows:\n\n1. Tags — multidimensional filtering (feature area, risk level, sprint, environment, test type)\n2. Configurations — test matrix tracking across browsers, devices, and environments\n3. Shared steps — write once, update once, propagates everywhere\n\nFull setup guide: testfiesta.com/blog/test-case-organization\n\nStart Free Account: app.testfiesta.com/signup","twitter_thread":["A test suite nobody can navigate is a test suite nobody uses. Here's the three-primitive organization system that keeps test suites maintainable as they grow. 🧵","Primitive 1: Tags. Folders organize in one dimension. Tags organize in as many as you need. Feature area + risk level + sprint + environment + test type = filter by any combination. Build a 5-dimension taxonomy with 25 total tags.","Primitive 2: Configurations. Same test cases need to run on Chrome, Firefox, Safari, iOS, Android. Configurations track results per environment in the same run. No spreadsheets, no duplicate runs.","Primitive 3: Shared steps. Login flow in 300 test cases. Login flow changes. Without shared steps: 300 updates. With shared steps: 1 update. Nested shared steps propagate changes at any depth.","Anti-patterns to avoid: too many tags (50 tags = unusable), folders AND tags for the same dimension, shared steps that are too granular or too broad. Full guide: testfiesta.com/blog/test-case-organization"]}}
+{
+  "title": "The QA Leader's Guide to Test Organization (Tags, Configs, and Shared Steps)",
+  "slug": "test-case-organization",
+  "meta_title": "Test Case Organization: Tags, Configs, and Shared Steps in TestFiesta",
+  "meta_description": "A test suite nobody can navigate is a test suite nobody uses. Here's how to use tags, configurations, and shared steps to build an organization system that scales.",
+  "primary_keyword": "test case organization",
+  "secondary_keywords": [
+    "qa workflow organization",
+    "test suite organization",
+    "test tags",
+    "test configurations",
+    "shared test steps"
+  ],
+  "category": "QA Leadership",
+  "word_count": 2600,
+  "internal_links": [
+    {
+      "anchor": "how to run a full QA project in TestFiesta",
+      "url": "/blog/qa-project-management"
+    }
+  ],
+  "social": {
+    "linkedin_cmo": "A test suite that nobody can navigate is a test suite that does not get used.\n\nQA teams that cannot find the test cases they need default to writing new ones — creating duplicates, missing coverage gaps, and building a test suite that grows in size while shrinking in usefulness.\n\nTags, configurations, and shared steps are the three organizational primitives that keep a test suite navigable as it grows. Used together, they turn a sprawling test suite into something any team member can navigate in minutes.\n\nFull guide: testfiesta.com/blog/test-case-organization\n\n#QA #TestManagement",
+    "linkedin_brand": "Three organizational primitives that keep a test suite maintainable as it grows:\n\n1. Tags — multidimensional filtering (feature area, risk level, sprint, environment, test type)\n2. Configurations — test matrix tracking across browsers, devices, and environments\n3. Shared steps — write once, update once, propagates everywhere\n\nFull setup guide: testfiesta.com/blog/test-case-organization\n\nStart Free Account: app.testfiesta.com/signup",
+    "twitter_thread": [
+      "A test suite nobody can navigate is a test suite nobody uses. Here's the three-primitive organization system that keeps test suites maintainable as they grow. 🧵",
+      "Primitive 1: Tags. Folders organize in one dimension. Tags organize in as many as you need. Feature area + risk level + sprint + environment + test type = filter by any combination. Build a 5-dimension taxonomy with 25 total tags.",
+      "Primitive 2: Configurations. Same test cases need to run on Chrome, Firefox, Safari, iOS, Android. Configurations track results per environment in the same run. No spreadsheets, no duplicate runs.",
+      "Primitive 3: Shared steps. Login flow in 300 test cases. Login flow changes. Without shared steps: 300 updates. With shared steps: 1 update. Nested shared steps propagate changes at any depth.",
+      "Anti-patterns to avoid: too many tags (50 tags = unusable), folders AND tags for the same dimension, shared steps that are too granular or too broad. Full guide: testfiesta.com/blog/test-case-organization"
+    ]
+  },
+  "author": "TestFiesta Team",
+  "published_date": "2026-05-19",
+  "featured_image_alt": "Test case organization with tags, configurations, and shared steps in TestFiesta",
+  "featured": false
+}
