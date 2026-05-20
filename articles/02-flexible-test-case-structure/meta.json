@@ -4,12 +4,24 @@
   "meta_title": "Test Case Management: Build a Flexible Structure That Scales",
   "meta_description": "Copy-paste test cases and inconsistent formats make test suites unmaintainable. Here's how to use templates, custom fields, and shared steps to fix it once.",
   "primary_keyword": "test case management",
-  "secondary_keywords": ["test case templates","custom fields qa","shared test steps","test case structure","reusable test steps"],
+  "secondary_keywords": [
+    "test case templates",
+    "custom fields qa",
+    "shared test steps",
+    "test case structure",
+    "reusable test steps"
+  ],
   "category": "QA Leadership",
   "word_count": 2700,
   "internal_links": [
-    {"anchor": "the QA leader's guide to test organization","url": "/blog/test-case-organization"},
-    {"anchor": "how to run a full QA project in TestFiesta","url": "/blog/qa-project-management"}
+    {
+      "anchor": "the QA leader's guide to test organization",
+      "url": "/blog/test-case-organization"
+    },
+    {
+      "anchor": "how to run a full QA project in TestFiesta",
+      "url": "/blog/qa-project-management"
+    }
   ],
   "social": {
     "linkedin_cmo": "Most QA teams spend more time maintaining their test suite than running it.\n\nCopy-pasted steps that break when a shared flow changes. Inconsistent formats. Custom fields added one at a time with no system behind them.\n\nThe problem is not the team. It is the structure.\n\nTemplates, custom fields, shared steps, tags, and configurations are the five primitives that keep a test suite maintainable as it grows. Set them up before writing the first test case and the maintenance problem largely solves itself.\n\nFull guide: testfiesta.com/blog/flexible-test-case-structure\n\n#QA #TestManagement #SoftwareTesting",
@@ -22,5 +34,9 @@
       "Problem: test matrix tracking. Same test cases need to run on Chrome, Firefox, Safari, iOS, Android. Solution: configurations. Define your environments once. Track results per configuration in the same run.",
       "Set up templates + shared steps + tags + configurations before writing the first test case. The structural maintenance problem largely disappears. Full guide: testfiesta.com/blog/flexible-test-case-structure"
     ]
-  }
+  },
+  "author": "TestFiesta Team",
+  "published_date": "2026-05-19",
+  "featured_image_alt": "Flexible test case structure with templates, custom fields, and shared steps",
+  "featured": false
 }
