@@ -1,1 +1,36 @@
-{"title":"AI Test Case Generation That Actually Understands Your Context","slug":"ai-test-case-generation","meta_title":"AI Test Case Generation: Context-Aware Testing with TestFiesta","meta_description":"Most AI test generators produce generic output. TestFiesta's AI reads your project structure, templates, and custom fields to generate test cases that fit your actual setup.","primary_keyword":"ai test case generation","secondary_keywords":["ai qa tools","automated test case creation","ai testing tools","generate test cases automatically"],"category":"QA Leadership","word_count":2600,"internal_links":[{"anchor":"how to run a full QA project in TestFiesta","url":"/blog/qa-project-management"}],"social":{"linkedin_cmo":"Most AI test case generators produce the same five test cases regardless of what you give them.\n\nHappy path. Null input. Invalid format. Boundary value. Negative test.\n\nGeneric. Unusable without a full rewrite.\n\nTestFiesta's AI generation reads your project structure, templates, custom fields, and shared steps library before generating a single test case. The output fits your test suite.\n\nFull breakdown: testfiesta.com/blog/ai-test-case-generation\n\n#QA #AITesting #TestManagement","linkedin_brand":"AI test case generation that actually understands your context.\n\nTestFiesta's AI reads your template, custom fields, shared steps, and tag taxonomy before generating test cases — so the output fits your actual setup without reformatting.\n\nMulti-generate: create 20 test cases from a single prompt.\n\nFull guide: testfiesta.com/blog/ai-test-case-generation\n\nStart Free Account: app.testfiesta.com/signup","twitter_thread":["Most AI test generators produce generic output that requires a full rewrite before it's useful. TestFiesta's AI generation works differently. Here's why. 🧵","The problem isn't the AI. It's the context. Generic AI test generators receive a feature description and nothing else. They don't know your templates, custom fields, shared steps, or existing test cases.","TestFiesta's AI reads your full project context before generating: template fields, shared steps library, tag taxonomy, existing test cases. The output fits your test suite.","Multi-generate: describe 5 scenarios in one prompt, get 5 complete test cases — each with correct template fields, shared step references, and tags. What takes 30-45 minutes manually takes 2-3 minutes.","The right mental model: AI handles the production work of translating a known scenario into a structured test case. You handle the strategic work of deciding which scenarios matter. Full guide: testfiesta.com/blog/ai-test-case-generation"]}}
+{
+  "title": "AI Test Case Generation That Actually Understands Your Context",
+  "slug": "ai-test-case-generation",
+  "meta_title": "AI Test Case Generation: Context-Aware Testing with TestFiesta",
+  "meta_description": "Most AI test generators produce generic output. TestFiesta's AI reads your project structure, templates, and custom fields to generate test cases that fit your actual setup.",
+  "primary_keyword": "ai test case generation",
+  "secondary_keywords": [
+    "ai qa tools",
+    "automated test case creation",
+    "ai testing tools",
+    "generate test cases automatically"
+  ],
+  "category": "QA Leadership",
+  "word_count": 2600,
+  "internal_links": [
+    {
+      "anchor": "how to run a full QA project in TestFiesta",
+      "url": "/blog/qa-project-management"
+    }
+  ],
+  "social": {
+    "linkedin_cmo": "Most AI test case generators produce the same five test cases regardless of what you give them.\n\nHappy path. Null input. Invalid format. Boundary value. Negative test.\n\nGeneric. Unusable without a full rewrite.\n\nTestFiesta's AI generation reads your project structure, templates, custom fields, and shared steps library before generating a single test case. The output fits your test suite.\n\nFull breakdown: testfiesta.com/blog/ai-test-case-generation\n\n#QA #AITesting #TestManagement",
+    "linkedin_brand": "AI test case generation that actually understands your context.\n\nTestFiesta's AI reads your template, custom fields, shared steps, and tag taxonomy before generating test cases — so the output fits your actual setup without reformatting.\n\nMulti-generate: create 20 test cases from a single prompt.\n\nFull guide: testfiesta.com/blog/ai-test-case-generation\n\nStart Free Account: app.testfiesta.com/signup",
+    "twitter_thread": [
+      "Most AI test generators produce generic output that requires a full rewrite before it's useful. TestFiesta's AI generation works differently. Here's why. 🧵",
+      "The problem isn't the AI. It's the context. Generic AI test generators receive a feature description and nothing else. They don't know your templates, custom fields, shared steps, or existing test cases.",
+      "TestFiesta's AI reads your full project context before generating: template fields, shared steps library, tag taxonomy, existing test cases. The output fits your test suite.",
+      "Multi-generate: describe 5 scenarios in one prompt, get 5 complete test cases — each with correct template fields, shared step references, and tags. What takes 30-45 minutes manually takes 2-3 minutes.",
+      "The right mental model: AI handles the production work of translating a known scenario into a structured test case. You handle the strategic work of deciding which scenarios matter. Full guide: testfiesta.com/blog/ai-test-case-generation"
+    ]
+  },
+  "author": "TestFiesta Team",
+  "published_date": "2026-05-19",
+  "featured_image_alt": "AI test case generation in TestFiesta — context-aware, multi-generate",
+  "featured": false
+}
